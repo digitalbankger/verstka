@@ -1,0 +1,8 @@
+@mixin flex-center {
+    display: flex;
+    justify-content: center;
+}
+@mixin flex-space {
+    display: flex;
+    justify-content: space-between;
+}
